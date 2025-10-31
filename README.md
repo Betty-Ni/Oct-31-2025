@@ -17,3 +17,13 @@
 - git push -u origin main
 - check status of the new github repository
 - 
+# git checkout
+- git checkout -b Branch_411203209
+- do some modification to integration.py
+- git commit -m 'modifying integration.py'
+- push --set-upstream origin Branch_411203209
+
+in github
+- click compare & merge request
+- create pull request
+- merge request
